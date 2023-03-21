@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+.increase-button{
+  border:none;
+  background-color: green;
+  color: white;
+  margin: 0 10px;
+  padding: 10px;
+}
+.decrease-button{
+  border:none;
+  background-color: red;
+  color: white;
+  margin: 0 10px;
+  padding: 10px;
+}
+.reset-button{
+  border:none;
+  background-color: skyblue;
+  color: white;
+  margin: 0 10px;
+  padding: 10px;
+}
